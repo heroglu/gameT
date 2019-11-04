@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1572833359 source:c:\users\hasaneroglu\desktop\teknik bilimler\c uygulamalarý\gamet\gamet\main.c
-	<stdio.h>
-	<stdlib.h>
-	<windows.h>
-	<time.h>
-	<process.h>
-
